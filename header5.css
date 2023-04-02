@@ -139,9 +139,8 @@ li {
 
 @media only screen and (max-width: 1024px) {
     .ignore-br {
-        font-size: 15gitpx;
+        font-size: 15px;
     }
-
 }
 
 
@@ -186,6 +185,7 @@ li {
 
     .hamburger{
         display: flex;
+        top: 20px;
         right: 30px;
     }
 
